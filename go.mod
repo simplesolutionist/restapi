@@ -1,4 +1,4 @@
-module github.com/simplesolutionist/api
+module github.com/simplesolutionist/restapi
 
 go 1.16
 
